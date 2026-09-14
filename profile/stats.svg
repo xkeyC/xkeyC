@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">xkeyC&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 492, Total Commits  (last year) : 549, Total PRs: 101, Total Issues: 175, Contributed to (last year): 20</desc>
+        <desc id="descId">Total Stars Earned: 492, Total Commits  (last year) : 549, Total PRs: 103, Total Issues: 175, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 44.53739407286632;
+        stroke-dashoffset: 44.113772527657375;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >101</text>
+      >103</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >20</text>
+      >22</text>
     </g>
   </g>
     </svg>
